@@ -1,0 +1,82 @@
+.container-card{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+.chart-line {
+  position: relative;
+  height:auto;
+  width:auto;
+ 
+}
+
+.char-bar{
+  position: relative;
+  height:35vh;
+  width:35vw;
+  width: auto;
+  margin: auto;
+}
+
+.chart-mixed {
+  position: relative;
+  height:35vh;
+  width:35vw;
+  margin: auto;
+  width: auto;
+}
+
+.chart-pie {
+  position: relative;
+  height:35vh;
+  width:35vw;
+  width: auto;
+  margin: auto;
+}
+
+.chart-scatter {
+  position: relative;
+  height:35vh;
+  width:35vw;
+  width: auto;
+  margin: auto;
+}
+
+
+
+.scroll {
+  overflow: auto;
+}
+
+.text-white{
+  color: white;
+}
+
+
+
+
+/*
+@media (min-width: 576px) {
+  .chart-line {
+      height: auto;
+      width: auto;
+   }
+}
+
+@media (min-width: 768px) { 
+  .chart-line {
+    height: auto;
+    width: auto;
+ }
+ }
+
+ @media (min-width: 992px) { 
+   .chart-line {
+  height: auto;
+  width: auto;
+} }
+*/
